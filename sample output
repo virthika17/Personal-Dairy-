@@ -1,1 +1,8 @@
+Program Execution Log
+----------------------
+Date: 2025-08-14
+Author: Virthika
 
+HelloWorld.java - Successfully compiled and executed.
+Calculator.java - Tested with inputs (5,3, *), output: 15.
+Factorial.java - Tested with input 5, output: 120. 
